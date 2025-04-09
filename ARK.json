@@ -26,7 +26,7 @@
     },
     {
       "fromClass": "/Game/ASA/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP",
-      "toClass": "/BetterBigfoot/Content/Dinos/Bigfoot_Character_BBF_BP/Bigfoot_Character_BBF_BP.Bigfoot_Character_BBF_BP"
+      "toClass": "/ShooterGame/Mods/BetterBigfoot/Content/Content/Dinos/Bigfoot_Character_BBF_BP/Bigfoot_Character_BBF_BP.Bigfoot_Character_BBF_BP"
     }
   ]
 }
